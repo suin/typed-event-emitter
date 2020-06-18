@@ -48,7 +48,8 @@ jobs:
 
   release:
     name: Release
-    needs: [compile, test]
+    #    needs: [compile, test]
+    needs: [compile]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
