@@ -1,6 +1,6 @@
 {
   "name": "@suin/typed-event-emitter",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Strongly typed EventEmitter interface for TypeScript",
   "keywords": [
     "event",
